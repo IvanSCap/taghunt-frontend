@@ -1,0 +1,8 @@
+
+6javascript:S3317""Rename this file to "QuestionsAdd"
+Tjavascript:S1117"1'answers' is already declared in the upper scope.(ĞÑ§å8äâ¹ŸÅ1
+Njavascript:S1854%"2Remove this useless assignment to variable "resp".(‹ôçò
+…javascript:S4165*"dReview this redundant assignment: "resp" already holds the assigned value along all execution paths.(ÑÊëŸıÿÿÿÿ
+~javascript:S1172A"]Remove the unused function parameter "res" or rename it to "_res" to make intention explicit.(¬§Òàÿÿÿÿÿ
+:javascript:S125B"Remove this commented out code.(˜èòú
+}javascript:S1172F"aRemove the unused function parameter "error" or rename it to "_error" to make intention explicit.(Ò·ş
